@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/build-a-car-driving-game-from-scratch-using-javascript-video/9781838824648)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Build-a-Car-Driving-Game-from-Scratch-using-JavaScript
 Code repository for Build a Car Driving Game from Scratch using JavaScript, Published by Packt
 # Build a Car Driving Game from Scratch using JavaScript
